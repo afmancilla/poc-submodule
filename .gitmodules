@@ -1,0 +1,6 @@
+[submodule "submodule-openapi"]
+	path = submodule-openapi
+	url = git@github.com:afmancilla/submodule-openapi.git
+[submodule "submodule-asyncapi"]
+	path = submodule-asyncapi
+	url = git@github.com:afmancilla/submodule-asyncapi.git
