@@ -1,7 +1,7 @@
-[submodule "submodule-openapi"]
+[submodule "openapi"]
 	path = submodule-openapi
-	url = git@github.com:afmancilla/submodule-openapi.git
-	branche = v1.1.0
+	url = https://github.com/afmancilla/submodule-openapi.git
+	branche = v1.0.0
 [submodule "submodule-asyncapi"]
-	path = submodule-asyncapi
-	url = git@github.com:afmancilla/submodule-asyncapi.git
+	path = asyncapi
+	url = https://github.com/afmancilla/submodule-asyncapi.git
