@@ -1,4 +1,4 @@
-[submodule "openapi"]
+[submodule "submodule-openapi"]
 	path = submodule-openapi
 	url = https://github.com/afmancilla/submodule-openapi.git
 	branche = v1.0.0
