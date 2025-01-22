@@ -3,5 +3,5 @@
 	url = https://github.com/afmancilla/submodule-openapi.git
 	branche = v1.0.0
 [submodule "submodule-asyncapi"]
-	path = asyncapi
+	path = submodule-asyncapi
 	url = https://github.com/afmancilla/submodule-asyncapi.git
