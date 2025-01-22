@@ -1,7 +1,6 @@
 [submodule "submodule-openapi"]
 	path = submodule-openapi
-	url = https://github.com/afmancilla/submodule-openapi.git
-	branche = v1.0.0
+	url = git@github.com:afmancilla/submodule-openapi.git
 [submodule "submodule-asyncapi"]
 	path = submodule-asyncapi
-	url = https://github.com/afmancilla/submodule-asyncapi.git
+	url = git@github.com:afmancilla/submodule-asyncapi.git
